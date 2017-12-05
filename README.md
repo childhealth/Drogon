@@ -6,4 +6,4 @@ Experimental node application to investigate the functionality and software arch
 * Publish FHIR events to the National Events Management Services (NEMS)
 
 ## Design
-[](https://github.com/childhealth/Drogon/blob/master/Arch.jpg)
+!(https://github.com/childhealth/Drogon/blob/master/Arch.jpg)
