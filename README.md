@@ -9,9 +9,12 @@ Experimental node.js application to investigate the functionality and software a
 ![](https://github.com/childhealth/Drogon/blob/master/Arch.jpg)
 ## Configuration Manager
 A utility module (cmgr.js) that:
-* Reads configuration data from a local data file
-* Exposes the data as properties that can be get by other modules
+* Reads configuration data from a local file (config.json)
+* Exposes the data as properties that can be getted by other modules
 ## Audit Manager
 A utility module (amgr.js) that:
 * Provides an audit log write method that can be called by other modules
-* Appends all audit writes to an audit log text file
+* Appends all audit writes to a local audit log text file (auditlog.csv)
+## Input Channel Adaptor
+To decouple the channel (transport and method) used to receive or fetch the blood spot CSV files from a laboratory, an Input Channel Adaptor module provides a standard interface to the Input Manager while inplementing all the channel specific functionality.
+If there 
