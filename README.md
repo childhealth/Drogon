@@ -8,3 +8,10 @@ Experimental node.js application to investigate the functionality and software a
 # Design
 ![](https://github.com/childhealth/Drogon/blob/master/Arch.jpg)
 ## Configuration Manager
+A utility module (cmgr.js) that:
+* Reads configuration data from a local data file
+* Exposes the data as properties that can be get by other modules
+## Audit Manager
+A utility module (amgr.js) that:
+* Provides an audit log write method
+* Appends all audit writes to an audit log text file
