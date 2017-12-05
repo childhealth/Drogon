@@ -16,5 +16,5 @@ A utility module (amgr.js) that:
 * Provides an audit log write method that can be called by other modules
 * Appends all audit writes to a local audit log text file (auditlog.csv)
 ## Input Channel Adaptor
-To decouple the channel (transport and method) used to receive or fetch the blood spot CSV files from a laboratory, an Input Channel Adaptor module provides a standard interface to the Input Manager while inplementing all the channel specific functionality.
+To decouple the channel (transport and method) used to receive or fetch the blood spot CSV files from a laboratory, an Input Channel Adaptor module provides a standard interface to the Input Manager while implementing all the channel specific functionality.
 If there 
