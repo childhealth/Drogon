@@ -13,5 +13,5 @@ A utility module (cmgr.js) that:
 * Exposes the data as properties that can be get by other modules
 ## Audit Manager
 A utility module (amgr.js) that:
-* Provides an audit log write method
+* Provides an audit log write method that can be called by other modules
 * Appends all audit writes to an audit log text file
