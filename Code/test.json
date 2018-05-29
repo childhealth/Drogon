@@ -1,0 +1,43 @@
+{
+  "resourceType": "Bundle",
+  "type": "message",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:1709b832-6948-49cc-ac5d-0087181470e1",
+      "resource": {
+        "resourceType": "MessageHeader",
+        "extension": [
+          {
+            "url": "https://fhir.nhs.uk/StructureDefinition/Extension-DCH-MessageEventType-1",
+            "valueCodeableConcept": {
+              "coding": [
+                {
+                  "system": "https://fhir.nhs.uk/DCH-MessageEventType-1",
+                  "code": "new",
+                  "display": "New event message"
+                }
+              ]
+            }
+          }
+        ],
+        "timestamp": "2017-11-27T09:43:35.431Z",
+        "event": {
+          "system": "https://fhir.nhs.uk/DCH-ChildHealthEventType-1",
+          "code": "CH006",
+          "display": "Blood Spot"
+        },
+        "source": {
+          "endpoint": "urn:nhs-uk:addressing:ods:695N0"
+        },
+        "responsible": {
+          "reference": "urn:uuid:5d0d1f36-4b12-4aec-aed5-31eb135d4fca"
+        },
+        "data": [
+          {
+            "reference": "urn:uuid:dc45702e-9f04-468b-9734-ebabab424b4b"
+          }
+        ]
+      }
+    }
+  ]
+}

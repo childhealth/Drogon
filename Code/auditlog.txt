@@ -1,0 +1,40 @@
+[2017-12-06 13:14:14] APP : Started[2017-12-06 13:14:14] APP : Finished[2017-12-06 15:29:06] APP : Started
+[2017-12-06 15:29:06] APP : Finished
+[2017-12-06 15:30:34:291] APP : Started
+[2017-12-06 15:30:34:307] APP : Finished
+[2017-12-11 11:19:31:234] APP : Started
+[2017-12-11 11:20:00:135] APP : Started
+[2017-12-11 11:20:30:368] APP : Finished
+[2017-12-11 11:26:31:807]   ____                              
+ |  _ \ _ __ ___   __ _  ___  _ __  
+ | | | | '__/ _ \ / _` |/ _ \| '_ \ 
+ | |_| | | | (_) | (_| | (_) | | | |
+ |____/|_|  \___/ \__, |\___/|_| |_|
+                  |___/              : undefined
+[2017-12-11 11:26:41:071] APP : Finished
+[2017-12-11 11:28:09:958] APP : Started
+[2017-12-11 11:28:23:882] APP : Finished
+[2017-12-11 11:30:30:130] APP : Started
+[2017-12-11 11:30:46:784] APP : Finished
+[2017-12-11 11:31:18:278] APP : Started
+[2017-12-11 11:31:32:994] APP : Finished
+[2017-12-11 11:32:56:931] APP : Started
+[2017-12-11 11:33:14:520] APP : Finished
+[2017-12-11 11:40:37:038] APP : Started
+[2017-12-11 11:40:53:985] APP : Finished
+[INFO][2017-12-11 12:07:52:230] APP : Started
+[INFO][2017-12-11 12:08:08:659] APP : Finished
+[INFO][2017-12-11 12:10:50:137][DROGON] Started
+[INFO][2017-12-11 12:11:07:916][DROGON] Finished
+[INFO][2017-12-11 12:11:32:101][DROGON] Started
+[INFO][2017-12-11 12:11:42:976][DROGON] Finished
+[INFO][2017-12-11 12:13:27:643][DROGON] Started
+[INFO][2017-12-11 12:13:42:106][DROGON] Finished
+[INFO][2017-12-11 12:14:03:762][DROGON] Started
+[INFO][2017-12-11 12:14:11:065][DROGON] Finished
+[INFO][2017-12-11 12:22:01:240][DROGON] Started
+[INFO][2017-12-11 12:22:17:421][DROGON] Finished
+[INFO][2017-12-11 12:24:34:188][DROGON] Started
+[INFO][2017-12-11 12:24:52:037][DROGON] Finished
+[INFO][2017-12-11 13:00:25:348][DROGON] Started
+[INFO][2017-12-11 13:00:40:763][DROGON] Finished

@@ -1,0 +1,6 @@
+{
+    "app": "Drogon",
+    "auditFileName": "auditlog.txt",
+    "imapHostname": "imap.nhs.net",
+    "imapPort": "993"
+}
